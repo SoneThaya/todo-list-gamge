@@ -30,7 +30,7 @@ const TodoForm = ({ addTodo }) => {
         name="task"
         type="text"
       />
-      <button />
+      <button type="submit">submit</button>
     </form>
   );
 };
